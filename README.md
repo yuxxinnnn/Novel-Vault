@@ -10,7 +10,7 @@
 
 ## 🗂️ หมวดหมู่
 
-### [📖 นิยาย](https://github.com/yuxxinnnn/Novel-Vault/tree/600de7df19ff053086c9c7c3cb4fecabad1e9455/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A2)
+### 📖 นิยาย
 
 นิยายที่กำลังพัฒนาหรือเขียนอยู่
 
